@@ -1,4 +1,4 @@
-# Invoice Processor
+# PyInv - Invoice Processor
 
 Automated time extraction from Microsoft PPM and Google Calendar.
 
